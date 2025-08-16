@@ -67,4 +67,4 @@ co123-irnic
 
 ---
 
-✍️ نوشته شده توسط [Backyoon](https://github.com/Backyoon)  
+✍️ نوشته شده توسط [Sobhan Noorzahi](https://github.com/Sobhan-nz)  
